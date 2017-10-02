@@ -1,0 +1,16 @@
+
+
+NET "b" LOC = G15;
+NET "clk50" LOC = C9;
+NET "g" LOC = H15;
+NET "hSync" LOC = F15;
+NET "r" LOC = H14;
+NET "rst" LOC = N17;
+NET "vSync" LOC = F14;
+
+# PlanAhead Generated physical constraints 
+
+NET "left" 	LOC = D18;
+NET "right" LOC = H13;
+NET "up" 	LOC = V4;
+NET "down" 	LOC = K17;
